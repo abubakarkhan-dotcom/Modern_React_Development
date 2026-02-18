@@ -7,8 +7,4 @@ createRoot (document.getElementById('root')).render(
   <StrictMode>
     <App />
   </StrictMode>,
-
-  function App(){
-const   [count,setCount]=useState(0)
-
 )
