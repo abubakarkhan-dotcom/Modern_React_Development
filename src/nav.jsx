@@ -17,6 +17,9 @@ function Nav(){
         <li>
           <a href="/careers">Careers</a>
         </li>
+        <li>
+          <a href="/login">Login</a>
+        </li>
       </ul>
     </nav>
   )
