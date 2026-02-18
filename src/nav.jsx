@@ -12,15 +12,18 @@ function Nav(){
           <a href="/contact">Contact</a>
         </li>
         <li>
-          <a href="/blog">Blog</a>
+          
         </li>
         <li>
-          <a href="/careers">Careers</a>
+          
         </li>
       </ul>
     </nav>
   )
 }
 
+<<<<<<< HEAD
 export default Nav;
 
+=======
+>>>>>>> 228d757f7ab7a35cc34c0b5ec55b3bf3365b3131
