@@ -12,7 +12,6 @@ function Nav(){
           <a href="/contact">Contact</a>
         </li>
         <li>
-          <a href="/blog">Blog</a>
         </li>
         <li>
           <a href="/careers">Careers</a>
