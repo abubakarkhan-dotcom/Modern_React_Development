@@ -15,7 +15,7 @@ function Nav(){
           <a href="/blog">Blog</a>
         </li>
         <li>
-          <a href="/careers">Careers</a>
+          
         </li>
       </ul>
     </nav>
