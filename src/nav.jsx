@@ -24,6 +24,10 @@ function Nav(){
         <li>
           <a href="/signup">Signup</a>
         </li>
+
+        <li>
+          <a href="/test">Test</a>
+        </li>
       </ul>
     </nav>
   )
