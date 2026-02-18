@@ -22,8 +22,7 @@ function Nav(){
   )
 }
 
-<<<<<<< HEAD
 export default Nav;
 
 =======
->>>>>>> 228d757f7ab7a35cc34c0b5ec55b3bf3365b3131
+
